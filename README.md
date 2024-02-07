@@ -1,4 +1,4 @@
-#Matrix Multiplication using threads
+# Matrix Multiplication using threads
 
 Using POSIX thread library to implement matrix multiplication utilizing threads <br />
 First file matmult.c (used for the computation of matrix multiplication) <br />
